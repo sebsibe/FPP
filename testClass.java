@@ -1,7 +1,7 @@
 package W1L2_HOMEWORK_ASSIGNMENT;
 
 import lesson2.random.RandomNumbers;
-
+//test git pull
 public class testClass {
 
 	public static void main(String[] args) {
